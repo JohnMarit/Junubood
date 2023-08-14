@@ -187,11 +187,28 @@ Products
   color: var( --white);
 }
 .product-price {
-  margin-bottom: 0;
+  margin-bottom: 3px;
   color: var(--primary-100);
   font-weight: 700;
   font-size: 1rem;
   letter-spacing: var(--letterSpacing);
+}
+
+.product-order{
+  background-color: var( --white);
+  border-color:  var( --white);
+  font-size: 0.6rem;
+  color: var(--primary-400);
+  width: 35px;
+  height: 18px;
+  margin-top: -5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  justify-content: center;
+  padding: 1px 1px 3px;
+  outline-color: var( --white);
+  box-shadow: none;
+
 }
 
 
