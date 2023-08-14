@@ -167,6 +167,9 @@ Products
 }
 .product {
   margin-bottom: 1rem;
+  background-color: hsl(21, 57%, 50%);
+  margin: 10PX 10PX;
+  border-radius: 20PX;
 }
 .product-img {
   border-radius: var(--borderRadius);
@@ -175,20 +178,23 @@ Products
 .product footer {
   padding: 0.75rem 0;
   text-align: center;
+
 }
 .product-name {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.45rem;
   text-transform: capitalize;
   letter-spacing: var(--letterSpacing);
-  color: var(--grey-500);
+  color: var( --white);
 }
 .product-price {
   margin-bottom: 0;
-  color: var(--grey-700);
+  color: var(--primary-100);
   font-weight: 700;
   font-size: 1rem;
   letter-spacing: var(--letterSpacing);
 }
+
+
 
 @media screen and (min-width: 768px) {
   .products {
