@@ -187,16 +187,17 @@ Products
   color: var( --white);
 }
 .product-price {
-  margin-bottom: 3px;
+  margin-bottom: 0px;
   color: var(--primary-100);
   font-weight: 700;
   font-size: 1rem;
   letter-spacing: var(--letterSpacing);
+  padding-top: 15px;
 }
 
 .product-order{
   background-color: var( --white);
-  border-color:  var( --white);
+  border-color:  hsl(21, 57%, 50%);
   font-size: 0.6rem;
   color: var(--primary-400);
   width: 35px;
@@ -206,9 +207,6 @@ Products
   margin-right: 5px;
   justify-content: center;
   padding: 1px 1px 3px;
-  outline-color: var( --white);
-  box-shadow: none;
-
 }
 
 

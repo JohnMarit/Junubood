@@ -1,6 +1,6 @@
 const products = [
   {
-    id: 'rec43w3ipXvP28vog',
+    id: 'kombo laham',
     title: 'Kombo Laham',
     company: 'Kombo',
     image: 'img/kombo laham.jpg',
@@ -8,7 +8,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'rec4f2RIftFCb7aHh',
+    id: 'kudura samaka',
     title: 'Kudura Samaka',
     company: 'Kudura',
     image: 'img/kudura samaka.jpg',
@@ -16,7 +16,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'rec8kkCmSiMkbkiko',
+    id: 'shurba laham',
     title: 'Shurba Laham',
     company: 'Shurba',
     image: 'img/shurba.jpg',
@@ -24,7 +24,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recBohCqQsot4Q4II',
+    id: 'shurba jidada',
     title: 'Shurba Jidada',
     company: 'Shurba',
     image: 'img/shurba jidada.jpg',
@@ -33,7 +33,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recDG1JRZnbpRHpoy',
+    id: 'shurba samaka',
     title: 'Shurba Samaka',
     company: 'Shurba',
     image: 'img/shurba samaka.jpg',
@@ -42,7 +42,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recNWGyP7kjFhSqw3',
+    id: 'shaiya laham',
     title: 'Shaiya Laham',
     company: 'Shaiya',
     image: 'img/shaiya laham.jpg',
@@ -50,7 +50,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recZEougL5bbY4AEx',
+    id: 'asida maize',
     title: 'Asida Maize',
     company: 'Asida',
     image: 'img/asida maize.jpg',
@@ -58,7 +58,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recjMK1jgTb2ld7sv',
+    id: 'shaiya samaka',
     title: 'Shaiya Samaka',
     company: 'Shaiya',
     image: 'img/shaiya samaka.jpg',
@@ -66,7 +66,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recmg2a1ctaEJNZhu',
+    id: 'asida babrock',
     title: 'Asida Babrock',
     company: 'Asida',
     image: 'img/asida babrock.jpg',
@@ -74,7 +74,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recvKMNR3YFw0bEt3',
+    id: 'shaiya jidada',
     title: 'Shaiya Jidada',
     company: 'Shaiya',
     image: 'img/shaiya jidada.jpg',
@@ -82,7 +82,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recxaXFy5IW539sgM',
+    id: 'croppa',
     title: 'Croppa',
     company: 'Croppa',
     image: 'img/cropa.jpg',
@@ -90,7 +90,7 @@ const products = [
     order: 'Add',
   },
   {
-    id: 'recyqtRglGNGtO4Q5',
+    id: 'shaiya mixed',
     title: 'Shaiya Mixed',
     company: 'Shaiya Mixed',
     image: 'img/mixed.jpg',
