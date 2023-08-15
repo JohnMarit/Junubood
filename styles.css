@@ -133,6 +133,7 @@ Products
   grid-gap: 1rem;
   margin: 4rem auto;
   max-width: var(--max-width);
+  margin-top: 80px;
 }
 
 .filters-container h5 {

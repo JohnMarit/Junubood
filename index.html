@@ -6,8 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Junub Food Store</title>
     <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="nav.css" />
+    <link href="https://fonts.googleapis.com/css?family=Psoppins%26display=swap" rel="stylesheet">
+   
   </head>
   <body>
+    
+    <nav class="nav-fixed" class="nav-active">
+      <div class="logo">
+          <h4 class="title">Junub Food Store</h4>
+      </div>
+      <ul class="nav-links">
+          <li><a href="#">Dashboard</a></li>
+          <li><a href="#">Ordered List</a></li>
+          <li><a href="#">Account Balance</a></li>
+          <li><a href="#">Bonus</a></li>
+          <li><a href="#">Log out</a></li>
+      </ul>
+      <div class="burger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+      </div>
+  </nav>
+
+
     <!-- products -->
     <section class="products">
       <!-- filters -->
@@ -17,7 +40,7 @@
           <input type="text" class="search-input" placeholder="search..." />
         </form>
         <!-- categories -->
-        <h5>Junubood</h5>
+        <h5>Food Menu</h5>
         <article class="companies">
           <button class="company-btn">all</button>
           <button class="company-btn">ikea</button>
@@ -43,5 +66,6 @@
     </section>
     <script src="./products.js"></script>
     <script src="./app.js"></script>
+    <script src="nav.js"></script>
   </body>
 </html>
