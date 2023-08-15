@@ -29,7 +29,7 @@ nav.nav-fixed {
     width: 100%;
     position: fixed;
     transition: 0.3s ease-in-out;
-    background-color: hsl(21, 81%, 27%);
+    background-color: hsl(21, 95%, 17%);
     box-shadow: 5px -1px 12px -5px hsl(21, 94%, 87%);
 }
 /*
@@ -70,7 +70,7 @@ nav.nav-active {
     right: 0px;
     height: 40vh;
     top: 8vh;
-    background-color: hsl(21, 81%, 27%);
+    background-color: hsl(21, 95%, 17%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -129,11 +129,11 @@ nav.nav-active {
         right: 0px;
         height: 50vh;
         top: 8vh;
-        background-color: hsl(21, 81%, 27%);
+        background-color: hsl(21, 95%, 17%);
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 40%;
+        width: 50%;
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
         border-top-left-radius: 0px;
