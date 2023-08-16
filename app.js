@@ -60,7 +60,7 @@ const displayButtons = () => {
   // console.log(buttons);
   companiesDOM.innerHTML = buttons
     .map((company) => {
-      return `<button class='company-btn' data-id="${company}">${company}</button>`;
+      return `<article class='company-btn' data-id="${company}">${company}</article>`;
     })
     .join('');
 };

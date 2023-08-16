@@ -5,7 +5,7 @@ const products = [
     company: 'Kombo',
     image: 'img/kombo laham.jpg',
     price: 5.99,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'kudura samaka',
@@ -13,7 +13,7 @@ const products = [
     company: 'Kudura',
     image: 'img/kudura samaka.jpg',
     price: 6.55,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shurba laham',
@@ -21,7 +21,7 @@ const products = [
     company: 'Shurba',
     image: 'img/shurba.jpg',
     price: 18.88,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shurba jidada',
@@ -30,7 +30,7 @@ const products = [
     image: 'img/shurba jidada.jpg',
 
     price: 20.14,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shurba samaka',
@@ -39,7 +39,7 @@ const products = [
     image: 'img/shurba samaka.jpg',
 
     price: 24.90,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shaiya laham',
@@ -47,7 +47,7 @@ const products = [
     company: 'Shaiya',
     image: 'img/shaiya laham.jpg',
     price: 20.01,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'asida maize',
@@ -55,7 +55,7 @@ const products = [
     company: 'Asida',
     image: 'img/asida maize.jpg',
     price: 6.21,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shaiya samaka',
@@ -63,7 +63,7 @@ const products = [
     company: 'Shaiya',
     image: 'img/shaiya samaka.jpg',
     price: 26.77,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'asida babrock',
@@ -71,7 +71,7 @@ const products = [
     company: 'Asida',
     image: 'img/asida babrock.jpg',
     price: 6.95,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shaiya jidada',
@@ -87,7 +87,7 @@ const products = [
     company: 'Croppa',
     image: 'img/cropa.jpg',
     price: 6.19,
-    order: 'Add',
+    order: 'Add'
   },
   {
     id: 'shaiya mixed',
@@ -95,6 +95,6 @@ const products = [
     company: 'Shaiya Mixed',
     image: 'img/mixed.jpg',
     price: 25.19,
-    order: 'Add',
+    order: 'Add'
   },
 ];
